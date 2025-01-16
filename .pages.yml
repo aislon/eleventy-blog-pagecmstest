@@ -1,7 +1,7 @@
 media: public/img
 content:
   - name: posts
-    label: Content
+    label: Karlliqet e cikos
     type: collection
     path: content/blog
     view:
